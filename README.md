@@ -1,15 +1,26 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Hieu Pham</h1>
-<h3 align="center">I'm a fresher joined, working as a Backend Developer👻.</h3>
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Hi 👋, I'm Neo Pham</h1>
+<h2 align="center">I'm a fresher joined, working as a Backend Developer👻.</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/hiph_drgn2502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiph_drgn2502" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hieu-pham2502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hieu-pham2502" height="30" width="40" /></a>
-<a href="https://fb.com/hieuph.drgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hieuph.drgn" height="30" width="40" /></a>
-<a href="https://instagram.com/hi.ph_drgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hi.ph_drgn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hieupham250201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hieupham250201" height="30" width="40" /></a>
+   <a href="https://www.facebook.com/hieuph.drgn/" target="_blank">
+  <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" />
+  </a>  
+   <a href="https://www.instagram.com/hi.ph_drgn/" target="_blank">
+  <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white style="margin-bottom: 5px;" />
+  </a> 
+   <a href="https://www.linkedin.com/in/hieu-pham2502/" target="_blank">
+  <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
+  </a> 
+  <a href="https://www.tiktok.com/@___25uieh" target="_blank">
+  <img src=https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white style="margin-bottom: 5px;" />
+  </a> 
+   <a href="https://twitter.com/hiph_drgn2502" target="_blank">
+  <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white style="margin-bottom: 5px;" />
+  </a> 
+   
+  <p>My name is Hieu Pham Duc, a fresh and passionate IT web developer, with a desire to write the most friendly and valuable programs, is ready to embark on a promising career in the ever-evolving world of technology.</p>
 </p>
-<!-- <img align="right" alt="Coding" width="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenoybmp3eGF4OGN6NXptbndndzgwMWV0enEwYnpkb2tubGR2N3lrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" /> -->
 <img align="right" alt="Coding" width="220" src="https://user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif" />
 
 
@@ -27,8 +38,18 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Languages and Tools:</h1>
+
+<p align="center"> 
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="ReactJS" src="https://img.shields.io/badge/React-35434F?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="TypeJS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hieuph-dev&show_icons=true&locale=en&layout=compact" alt="hieuph-dev" />
